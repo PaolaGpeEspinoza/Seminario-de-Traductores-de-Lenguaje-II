@@ -33,7 +33,7 @@ $$E \to id + E \mid id$$
 Se analizó la cadena de entrada: `a+b+c`.
 A continuación se muestra la traza de la pila y las acciones tomadas hasta la aceptación:
 
-![Evidencia Consola](results3.gif)
+![Evidencia Consola](results3.png)
 
 ---
 
