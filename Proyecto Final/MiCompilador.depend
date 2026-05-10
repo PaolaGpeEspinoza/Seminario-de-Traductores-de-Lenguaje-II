@@ -1,0 +1,305 @@
+# depslib dependency file v1.0
+1762326486 source:c:\users\flame\documents\github\seminariotraductores2_2025b\modulo 6\micompilador\arbolsintactico.cpp
+	"arbolSintactico.h"
+
+1762464982 c:\users\flame\documents\github\seminariotraductores2_2025b\modulo 6\micompilador\arbolsintactico.h
+	<string>
+	<iostream>
+	"tablaSimbolos.h"
+
+1762234828 c:\users\flame\documents\github\seminariotraductores2_2025b\modulo 6\micompilador\pila.h
+	<list>
+	<iostream>
+	<string>
+
+1762327609 source:c:\users\flame\documents\github\seminariotraductores2_2025b\modulo 6\micompilador\lexico.cpp
+	"lexico.h"
+
+1762463906 c:\users\flame\documents\github\seminariotraductores2_2025b\modulo 6\micompilador\lexico.h
+	<iostream>
+	<string>
+	<map>
+	<fstream>
+	<sstream>
+
+1762233639 source:c:\users\flame\documents\github\seminariotraductores2_2025b\modulo 6\micompilador\pila.cpp
+	"pila.h"
+	"lexico.h"
+	<sstream>
+	"arbolSintactico.h"
+
+1762462965 source:c:\users\flame\documents\github\seminariotraductores2_2025b\modulo 6\micompilador\principal.cpp
+	<cstdlib>
+	<iostream>
+	"pila.h"
+	"lexico.h"
+	"sintactico.h"
+	"semantico.h"
+
+1762326785 c:\users\flame\documents\github\seminariotraductores2_2025b\modulo 6\micompilador\sintactico.h
+	<vector>
+	<fstream>
+	<iostream>
+	<string>
+	"lexico.h"
+	"arbolSintactico.h"
+	"pila.h"
+
+1762461498 source:c:\users\flame\documents\github\seminariotraductores2_2025b\modulo 6\micompilador\sintactico.cpp
+	"sintactico.h"
+
+1762324603 c:\users\flame\documents\github\seminariotraductores2_2025b\modulo 6\micompilador\tablasimbolos.h
+	<list>
+	<iostream>
+	<string>
+
+1762324608 source:c:\users\flame\documents\github\seminariotraductores2_2025b\modulo 6\micompilador\tablasimbolos.cpp
+	"tablaSimbolos.h"
+	"arbolSintactico.h"
+
+1762462304 c:\users\flame\documents\github\seminariotraductores2_2025b\modulo 6\micompilador\semantico.h
+	<list>
+	<string>
+	"arbolSintactico.h"
+	"tablaSimbolos.h"
+
+1762463493 source:c:\users\flame\documents\github\seminariotraductores2_2025b\modulo 6\micompilador\semantico.cpp
+	"semantico.h"
+
+1764463730 source:c:\users\flame\documents\github\seminariotraductores2_2025b\proyectocompilador\arbolsintactico.cpp
+	"arbolSintactico.h"
+	"generador.h"
+
+1764461017 c:\users\flame\documents\github\seminariotraductores2_2025b\proyectocompilador\arbolsintactico.h
+	<string>
+	<iostream>
+	"tablaSimbolos.h"
+
+1762324603 c:\users\flame\documents\github\seminariotraductores2_2025b\proyectocompilador\tablasimbolos.h
+	<list>
+	<iostream>
+	<string>
+
+1764643370 source:c:\users\flame\documents\github\seminariotraductores2_2025b\proyectocompilador\lexico.cpp
+	"lexico.h"
+
+1762463906 c:\users\flame\documents\github\seminariotraductores2_2025b\proyectocompilador\lexico.h
+	<iostream>
+	<string>
+	<map>
+	<fstream>
+	<sstream>
+
+1762233639 source:c:\users\flame\documents\github\seminariotraductores2_2025b\proyectocompilador\pila.cpp
+	"pila.h"
+	"lexico.h"
+	<sstream>
+	"arbolSintactico.h"
+
+1762234828 c:\users\flame\documents\github\seminariotraductores2_2025b\proyectocompilador\pila.h
+	<list>
+	<iostream>
+	<string>
+
+1764644744 source:c:\users\flame\documents\github\seminariotraductores2_2025b\proyectocompilador\principal.cpp
+	<cstdlib>
+	<iostream>
+	"pila.h"
+	"lexico.h"
+	"sintactico.h"
+	"semantico.h"
+	"generador.h"
+	<fstream>
+	<sstream>
+
+1762795297 c:\users\flame\documents\github\seminariotraductores2_2025b\proyectocompilador\sintactico.h
+	<vector>
+	<fstream>
+	<iostream>
+	<string>
+	"lexico.h"
+	"arbolSintactico.h"
+	"pila.h"
+
+1762462304 c:\users\flame\documents\github\seminariotraductores2_2025b\proyectocompilador\semantico.h
+	<list>
+	<string>
+	"arbolSintactico.h"
+	"tablaSimbolos.h"
+
+1762463493 source:c:\users\flame\documents\github\seminariotraductores2_2025b\proyectocompilador\semantico.cpp
+	"semantico.h"
+
+1764568312 source:c:\users\flame\documents\github\seminariotraductores2_2025b\proyectocompilador\sintactico.cpp
+	"sintactico.h"
+
+1762463961 source:c:\users\flame\documents\github\seminariotraductores2_2025b\proyectocompilador\tablasimbolos.cpp
+	"tablaSimbolos.h"
+	"arbolSintactico.h"
+
+1764562995 source:c:\users\flame\documents\github\seminariotraductores2_2025b\proyectocompilador\generador.cpp
+	"generador.h"
+
+1762827430 c:\users\flame\documents\github\seminariotraductores2_2025b\proyectocompilador\generador.h
+	<fstream>
+	<string>
+	"arbolSintactico.h"
+
+1764638272 source:c:\users\pao\desktop\2026a\traductores de lenguaje\lexical-syntax-analyzer-main\lexical-syntax-analyzer-main\proyectocompilador\arbolsintactico.cpp
+	"arbolSintactico.h"
+	"generador.h"
+
+1764638272 c:\users\pao\desktop\2026a\traductores de lenguaje\lexical-syntax-analyzer-main\lexical-syntax-analyzer-main\proyectocompilador\arbolsintactico.h
+	<string>
+	<iostream>
+	"tablaSimbolos.h"
+
+1764638272 c:\users\pao\desktop\2026a\traductores de lenguaje\lexical-syntax-analyzer-main\lexical-syntax-analyzer-main\proyectocompilador\tablasimbolos.h
+	<list>
+	<iostream>
+	<string>
+
+1764638272 c:\users\pao\desktop\2026a\traductores de lenguaje\lexical-syntax-analyzer-main\lexical-syntax-analyzer-main\proyectocompilador\generador.h
+	<fstream>
+	<string>
+	"arbolSintactico.h"
+
+1764638272 source:c:\users\pao\desktop\2026a\traductores de lenguaje\lexical-syntax-analyzer-main\lexical-syntax-analyzer-main\proyectocompilador\generador.cpp
+	"generador.h"
+
+1764638272 source:c:\users\pao\desktop\2026a\traductores de lenguaje\lexical-syntax-analyzer-main\lexical-syntax-analyzer-main\proyectocompilador\lexico.cpp
+	"lexico.h"
+
+1764638272 c:\users\pao\desktop\2026a\traductores de lenguaje\lexical-syntax-analyzer-main\lexical-syntax-analyzer-main\proyectocompilador\lexico.h
+	<iostream>
+	<string>
+	<map>
+	<fstream>
+	<sstream>
+
+1764638272 source:c:\users\pao\desktop\2026a\traductores de lenguaje\lexical-syntax-analyzer-main\lexical-syntax-analyzer-main\proyectocompilador\pila.cpp
+	"pila.h"
+	"lexico.h"
+	<sstream>
+	"arbolSintactico.h"
+
+1764638272 c:\users\pao\desktop\2026a\traductores de lenguaje\lexical-syntax-analyzer-main\lexical-syntax-analyzer-main\proyectocompilador\pila.h
+	<list>
+	<iostream>
+	<string>
+
+1778304574 source:c:\users\pao\desktop\2026a\traductores de lenguaje\lexical-syntax-analyzer-main\lexical-syntax-analyzer-main\proyectocompilador\principal.cpp
+	<cstdlib>
+	<iostream>
+	"pila.h"
+	"lexico.h"
+	"sintactico.h"
+	"semantico.h"
+	"generador.h"
+	<fstream>
+	<sstream>
+
+1764638272 c:\users\pao\desktop\2026a\traductores de lenguaje\lexical-syntax-analyzer-main\lexical-syntax-analyzer-main\proyectocompilador\sintactico.h
+	<vector>
+	<fstream>
+	<iostream>
+	<string>
+	"lexico.h"
+	"arbolSintactico.h"
+	"pila.h"
+
+1764638272 c:\users\pao\desktop\2026a\traductores de lenguaje\lexical-syntax-analyzer-main\lexical-syntax-analyzer-main\proyectocompilador\semantico.h
+	<list>
+	<string>
+	"arbolSintactico.h"
+	"tablaSimbolos.h"
+
+1764638272 source:c:\users\pao\desktop\2026a\traductores de lenguaje\lexical-syntax-analyzer-main\lexical-syntax-analyzer-main\proyectocompilador\semantico.cpp
+	"semantico.h"
+
+1778304612 source:c:\users\pao\desktop\2026a\traductores de lenguaje\lexical-syntax-analyzer-main\lexical-syntax-analyzer-main\proyectocompilador\sintactico.cpp
+	"sintactico.h"
+
+1764638272 source:c:\users\pao\desktop\2026a\traductores de lenguaje\lexical-syntax-analyzer-main\lexical-syntax-analyzer-main\proyectocompilador\tablasimbolos.cpp
+	"tablaSimbolos.h"
+	"arbolSintactico.h"
+
+1764638272 source:c:\users\pao\desktop\2026a\traductores de lenguaje\proyectocompilador\arbolsintactico.cpp
+	"arbolSintactico.h"
+	"generador.h"
+
+1764638272 c:\users\pao\desktop\2026a\traductores de lenguaje\proyectocompilador\arbolsintactico.h
+	<string>
+	<iostream>
+	"tablaSimbolos.h"
+
+1764638272 c:\users\pao\desktop\2026a\traductores de lenguaje\proyectocompilador\tablasimbolos.h
+	<list>
+	<iostream>
+	<string>
+
+1764638272 c:\users\pao\desktop\2026a\traductores de lenguaje\proyectocompilador\generador.h
+	<fstream>
+	<string>
+	"arbolSintactico.h"
+
+1764638272 source:c:\users\pao\desktop\2026a\traductores de lenguaje\proyectocompilador\generador.cpp
+	"generador.h"
+
+1764638272 source:c:\users\pao\desktop\2026a\traductores de lenguaje\proyectocompilador\lexico.cpp
+	"lexico.h"
+
+1764638272 c:\users\pao\desktop\2026a\traductores de lenguaje\proyectocompilador\lexico.h
+	<iostream>
+	<string>
+	<map>
+	<fstream>
+	<sstream>
+
+1764638272 source:c:\users\pao\desktop\2026a\traductores de lenguaje\proyectocompilador\pila.cpp
+	"pila.h"
+	"lexico.h"
+	<sstream>
+	"arbolSintactico.h"
+
+1764638272 c:\users\pao\desktop\2026a\traductores de lenguaje\proyectocompilador\pila.h
+	<list>
+	<iostream>
+	<string>
+
+1778304574 source:c:\users\pao\desktop\2026a\traductores de lenguaje\proyectocompilador\principal.cpp
+	<cstdlib>
+	<iostream>
+	"pila.h"
+	"lexico.h"
+	"sintactico.h"
+	"semantico.h"
+	"generador.h"
+	<fstream>
+	<sstream>
+
+1764638272 c:\users\pao\desktop\2026a\traductores de lenguaje\proyectocompilador\sintactico.h
+	<vector>
+	<fstream>
+	<iostream>
+	<string>
+	"lexico.h"
+	"arbolSintactico.h"
+	"pila.h"
+
+1764638272 c:\users\pao\desktop\2026a\traductores de lenguaje\proyectocompilador\semantico.h
+	<list>
+	<string>
+	"arbolSintactico.h"
+	"tablaSimbolos.h"
+
+1764638272 source:c:\users\pao\desktop\2026a\traductores de lenguaje\proyectocompilador\semantico.cpp
+	"semantico.h"
+
+1778304612 source:c:\users\pao\desktop\2026a\traductores de lenguaje\proyectocompilador\sintactico.cpp
+	"sintactico.h"
+
+1764638272 source:c:\users\pao\desktop\2026a\traductores de lenguaje\proyectocompilador\tablasimbolos.cpp
+	"tablaSimbolos.h"
+	"arbolSintactico.h"
+
